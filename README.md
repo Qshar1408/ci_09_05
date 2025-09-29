@@ -11,6 +11,23 @@
 5. Сделайте fork [репозитория](https://github.com/aragastmatb/example-teamcity).
 6. Создайте VM (2CPU4RAM) и запустите [playbook](./infrastructure).
 
+#### Решение:
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_001.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_002.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_003.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_004.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_005.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_006.png)
+
+![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_007.png)
+
+
 ## Основная часть
 
 1. Создайте новый проект в teamcity на основе fork.
