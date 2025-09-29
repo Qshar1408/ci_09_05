@@ -79,6 +79,8 @@
 
 ![ci_09_005](https://github.com/Qshar1408/ci_09_05/blob/main/img/ci_09_017.png)
 
+#### Ссылка [Ссылка](https://github.com/Qshar1408/example-teamcity/tree/master/.teamcity/Netology_ExampleTeamcity)
+
 9. Создайте отдельную ветку `feature/add_reply` в репозитории.
 
 #### Создал отдельную ветку
